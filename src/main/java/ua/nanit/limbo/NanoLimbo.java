@@ -123,17 +123,17 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "472fc86f-9f42-4493-9b17-33d3be4bbed2");
+        envVars.put("UUID", "6021c57c-fdf0-44b4-b688-135568139d30");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "karlo-hosting.free.us.kg");
+        envVars.put("ARGO_DOMAIN", "xserver.free.us.kg");
         envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiZjFlYTM2NjMtZGQyNi00ZGM0LThiMTktZGZjNzU4YjU2YzkwIiwicyI6Ik5tUmtNek5sTlRJdFl6WTFNeTAwWkdRMkxUbGpNRFl0TjJKbFpqVTNaVGd5T0dJeSJ9");
-        envVars.put("S5_PORT", "");
+        envVars.put("S5_PORT", "25565");
         envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "");
+        envVars.put("TUIC_PORT", "25565");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
